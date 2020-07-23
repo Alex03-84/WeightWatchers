@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-23T10:29:18 MDT" name="WW Application Test Automation Test Suite" finished-at="2020-07-23T10:30:14 MDT" duration-ms="55877">
+    <groups>
+    </groups>
+    <test started-at="2020-07-23T10:29:18 MDT" name="WW App Test Cases" finished-at="2020-07-23T10:30:14 MDT" duration-ms="55877">
+      <class name="com.ww.qa.testcases.FindPageTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ww.qa.testcases.FindPageTest@75b6dd5b]" started-at="2020-07-23T10:29:43 MDT" name="beforeMethod" finished-at="2020-07-23T10:29:55 MDT" duration-ms="12383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyFindPageTitleTest()[pri:1, instance:com.ww.qa.testcases.FindPageTest@75b6dd5b]" started-at="2020-07-23T10:29:55 MDT" name="verifyFindPageTitleTest" finished-at="2020-07-23T10:29:55 MDT" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFindPageTitleTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.ww.qa.testcases.FindPageTest@75b6dd5b]" started-at="2020-07-23T10:29:55 MDT" name="afterMethod" finished-at="2020-07-23T10:29:56 MDT" duration-ms="668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.ww.qa.testcases.FindPageTest@75b6dd5b]" started-at="2020-07-23T10:29:56 MDT" name="beforeMethod" finished-at="2020-07-23T10:30:08 MDT" duration-ms="11895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="searchLocationsTest()[pri:2, instance:com.ww.qa.testcases.FindPageTest@75b6dd5b]" started-at="2020-07-23T10:30:08 MDT" name="searchLocationsTest" finished-at="2020-07-23T10:30:13 MDT" duration-ms="4975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchLocationsTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.ww.qa.testcases.FindPageTest@75b6dd5b]" started-at="2020-07-23T10:30:13 MDT" name="afterMethod" finished-at="2020-07-23T10:30:14 MDT" duration-ms="704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.ww.qa.testcases.FindPageTest -->
+      <class name="com.ww.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ww.qa.testcases.HomePageTest@228bda54]" started-at="2020-07-23T10:29:18 MDT" name="setUp" finished-at="2020-07-23T10:29:29 MDT" duration-ms="11194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyHomePageTitleTest()[pri:1, instance:com.ww.qa.testcases.HomePageTest@228bda54]" started-at="2020-07-23T10:29:29 MDT" name="verifyHomePageTitleTest" finished-at="2020-07-23T10:29:29 MDT" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ww.qa.testcases.HomePageTest@228bda54]" started-at="2020-07-23T10:29:29 MDT" name="tearDown" finished-at="2020-07-23T10:29:30 MDT" duration-ms="657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ww.qa.testcases.HomePageTest@228bda54]" started-at="2020-07-23T10:29:30 MDT" name="setUp" finished-at="2020-07-23T10:29:39 MDT" duration-ms="8850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickOnFindPage()[pri:2, instance:com.ww.qa.testcases.HomePageTest@228bda54]" started-at="2020-07-23T10:29:39 MDT" name="clickOnFindPage" finished-at="2020-07-23T10:29:42 MDT" duration-ms="2971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnFindPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ww.qa.testcases.HomePageTest@228bda54]" started-at="2020-07-23T10:29:42 MDT" name="tearDown" finished-at="2020-07-23T10:29:43 MDT" duration-ms="1409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ww.qa.testcases.HomePageTest -->
+    </test> <!-- WW App Test Cases -->
+  </suite> <!-- WW Application Test Automation Test Suite -->
+</testng-results>
